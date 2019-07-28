@@ -20,7 +20,7 @@
 		<div class="overlay"></div>
 		<div class="container">
 			<div>
-				<h2>Precisely what you imagined your brand could be,</h2>
+				<h2>This is just a change that you want to see</h2>
 				<h2>only more so.</h2>
 				<h3>brand strategy / web design / video / photography</h3>
 				<div class="modal-trigger light-btn white">Play reel</div>
